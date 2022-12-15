@@ -1,6 +1,8 @@
 import React from 'react';
 import MarketingApp from './components/MarketingApp';
 
-export default () => {
+const App = () => {
     return <MarketingApp />;
 };
+
+export default App;
